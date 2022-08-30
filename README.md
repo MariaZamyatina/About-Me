@@ -1,9 +1,10 @@
-## About Me:
--  😃 *love living, learning and discovering new things*
--  💻 *i like coding*  
--  💙 *i'm into painting* 
--  💚 *i like nature and traveling* 
 
-![photo1](https://user-images.githubusercontent.com/110875636/187377625-46325bc3-f0eb-42b7-85ac-de35eed159b9.jpg)<![IMG_8239](https://user-images.githubusercontent.com/110875636/187508745-b7376650-ecb1-48d2-9e40-9a1f5e10f9e6.jpg)<![IMG_8835](https://user-images.githubusercontent.com/110875636/187508814-06fea1b1-f6f5-4c91-b1d9-78d6866131af.jpg)
+![photo1](https://user-images.githubusercontent.com/110875636/187377625-46325bc3-f0eb-42b7-85ac-de35eed159b9.jpg) ![photo4](https://user-images.githubusercontent.com/110875636/187508950-e3283dd0-224f-47b9-ac69-fd445182671d.jpg) 
+   # About Me:
+-  ### 😃 *love living, learning and discovering new things*
+-  ### 💻 *i like coding*  
+-  ### 💙 *i'm into painting* 
+-  ### 💚 *i like nature and traveling* 
 
+![photo5](https://user-images.githubusercontent.com/110875636/187508991-48736f94-1e53-482b-acea-47142f512934.jpg) ![photo2](https://user-images.githubusercontent.com/110875636/187509049-ab2cba36-fc68-49ac-a6e6-1d50bb6fbb41.jpg)
 
